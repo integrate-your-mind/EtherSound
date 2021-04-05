@@ -6,3 +6,6 @@ The goal of Ethersound is to provide a high-throughput content distribution netw
 
 ## Contribution Guidelines
 ### TODO
+
+Donation Address:
+0xc7AF3A6f62066577C98Fdb3c119dE746df5e7B16 - ETH
